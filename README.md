@@ -1,9 +1,9 @@
-## Hi there, I am Sohal 👋
+## Hi there, I am Sohal 
 
- 🎒 BTech student at IIT Roorkee
- 🧠 Problem Solving
- 🤖 Main interest ML & AI based softwares 
- 💻 I code !!!
+ BTech student at IIT Roorkee
+ Problem Solving
+ Main interest ML & AI based softwares 
+ I code !!!
 
  
 ## 🌐 Socials:
